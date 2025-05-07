@@ -1,6 +1,54 @@
 # terraform-mcp-model
 
 
+TerraAI: gRPC-Based Terraform MCP Server
+Enhancing DevOps with LLM-Powered Intelligence
+VISION
+TerraAI – An MCP-based Terraform server that addresses multiple DevOps challenges through:
+CORE CAPABILITIES
+
+Frontier LLM-Powered Chatbot
+
+Natural language processing for infrastructure tasks
+Contextual understanding of DevOps requirements
+
+
+Intelligent Data Processing
+
+Accurate information gathering by scraping data sources
+Enhanced intelligence and summarization using LLM agents:
+
+Granite
+LLAMA
+Anthropic Claude
+Google Gemini
+
+
+
+
+Integration with Powerful Terraform Tools
+
+Migration Assistant Provider
+Terraform CLI
+Terraform Stacks
+Additional advanced Terraform tooling
+
+
+Multi-Cloud LLM Terraform Provider
+
+Unified interface across cloud platforms
+Intelligent resource optimization
+Automated configuration recommendations
+
+
+
+KEY BENEFITS
+
+Simplified infrastructure management
+Reduced configuration errors
+Accelerated deployment workflows
+Enhanced cross-team collaboration
+
 ReadMe
 🔗 What’s Already Built
 ✅ gRPC based MCP server for scraping and serving TFE release data
